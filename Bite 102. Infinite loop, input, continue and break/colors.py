@@ -22,5 +22,4 @@ def print_colors():
             print('Not a valid color')
 
     return
-
 # print_colors()
