@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6492787b-46d6-472f-89c5-00542873b5ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/test_colors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/bitesofpy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bitesofpy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="6492787b-46d6-472f-89c5-00542873b5ca" name="Default Changelist" comment="fixed color iterating">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            <state relative-caret-position="239">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -233,7 +229,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575581869260</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="color v.1.0">
+      <created>1575719417075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575719417075</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fixed color iterating">
+      <created>1575736898485</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575736898485</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -261,7 +271,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit through pycharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit through pycharm" />
+    <MESSAGE value="color v.1.0" />
+    <MESSAGE value="fixed color iterating" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed color iterating" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bite 101. f-strings and a simple if-else/test_driving.py">
@@ -290,8 +302,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        <state relative-caret-position="239">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
