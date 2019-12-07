@@ -1,6 +1,4 @@
 VALID_COLORS = ['blue', 'yellow', 'red']
-
-
 def print_colors():
     """In the while loop ask the user to enter a color,
        lowercase it and store it in a variable. Next check:
@@ -11,7 +9,6 @@ def print_colors():
         USER_COLOR = input("Type your color pls...")
         USER_COLOR = USER_COLOR.lower()
         done_str = str("quit")
-
         if USER_COLOR in VALID_COLORS:
             print(USER_COLOR)
 
@@ -20,6 +17,5 @@ def print_colors():
             exit()
         else :
             print('Not a valid color')
-
     return
 # print_colors()
