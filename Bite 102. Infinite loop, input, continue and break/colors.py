@@ -11,13 +11,16 @@ def print_colors():
         USER_COLOR = input("Type your color pls...")
         USER_COLOR = USER_COLOR.lower()
         done_str = str("quit")
-        for color in VALID_COLORS :
-            if color == USER_COLOR :
-                print(color)
-            elif color == done_str :
-                print("bye")
-            else:
-                print('Not a valid color')
+
+        if USER_COLOR in VALID_COLORS:
+            print(USER_COLOR)
+
+        elif USER_COLOR == done_str :
+            print("bye")
+            exit()
+        else :
+            print('Not a valid color')
+
     return
 
-print_colors()
+# print_colors()
