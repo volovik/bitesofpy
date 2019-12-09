@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6492787b-46d6-472f-89c5-00542873b5ca" name="Default Changelist" comment="">
+    <list default="true" id="6492787b-46d6-472f-89c5-00542873b5ca" name="Default Changelist" comment="Loop through games_won's dict (key, value) pairs (dict.items)">
+      <change afterPath="$PROJECT_DIR$/Bite 104. Split and join/pipe.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py">
+        <entry file="file://$PROJECT_DIR$/Bite 104. Split and join/pipe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="351">
+              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -44,6 +44,8 @@
         <option value="$PROJECT_DIR$/Bite 101. f-strings and a simple if-else/driving.py" />
         <option value="$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/test_colors.py" />
         <option value="$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py" />
+        <option value="$PROJECT_DIR$/Bite 103. Loop through a dictionary and pluralise a word/winners.py" />
+        <option value="$PROJECT_DIR$/Bite 104. Split and join/pipe.py" />
       </list>
     </option>
   </component>
@@ -68,7 +70,12 @@
             <path>
               <item name="bitesofpy" type="b2602c69:ProjectViewProjectNode" />
               <item name="bitesofpy" type="462c0819:PsiDirectoryNode" />
-              <item name="Bite 102. Infinite loop, input, continue and break" type="462c0819:PsiDirectoryNode" />
+              <item name="Bite 103. Loop through a dictionary and pluralise a word" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bitesofpy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bitesofpy" type="462c0819:PsiDirectoryNode" />
+              <item name="Bite 104. Split and join" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -94,7 +101,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.colors">
+  <component name="RunManager" selected="Python.pipe">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="bitesofpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +165,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pipe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bitesofpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bite 104. Split and join" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bite 104. Split and join/pipe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_driving" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bitesofpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,13 +207,38 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="winners" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bitesofpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bite 103. Loop through a dictionary and pluralise a word" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bite 103. Loop through a dictionary and pluralise a word/winners.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.colors" />
       <item itemvalue="Python.driving" />
       <item itemvalue="Python.test_driving" />
+      <item itemvalue="Python.winners" />
+      <item itemvalue="Python.pipe" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pipe" />
+        <item itemvalue="Python.winners" />
         <item itemvalue="Python.test_driving" />
         <item itemvalue="Python.driving" />
       </list>
@@ -237,18 +290,33 @@
       <option name="project" value="LOCAL" />
       <updated>1575738812379</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="final color">
+      <created>1575739162993</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575739162993</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Loop through games_won's dict (key, value) pairs (dict.items)">
+      <created>1575764759899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575764759899</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888888" visible="true" weight="0.24980299" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49888888" visible="true" weight="0.24980299" />
       <window_info id="Structure" order="1" sideWeight="0.50082916" side_tool="true" weight="0.24980299" />
       <window_info id="Favorites" order="2" sideWeight="0.5011111" side_tool="true" weight="0.24980299" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4992658" weight="0.3511111" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4992658" visible="true" weight="0.3511111" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -267,7 +335,9 @@
     <MESSAGE value="color v.1.0" />
     <MESSAGE value="fixed color iterating" />
     <MESSAGE value="fixed color" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed color" />
+    <MESSAGE value="final color" />
+    <MESSAGE value="Loop through games_won's dict (key, value) pairs (dict.items)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loop through games_won's dict (key, value) pairs (dict.items)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Bite 101. f-strings and a simple if-else/test_driving.py">
@@ -296,8 +366,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bite 102. Infinite loop, input, continue and break/colors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="501">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bite 103. Loop through a dictionary and pluralise a word/winners.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bite 104. Split and join/pipe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
         </state>
       </provider>
     </entry>
